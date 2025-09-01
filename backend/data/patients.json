@@ -1,0 +1,22 @@
+{
+  "patients": [
+    {
+      "id": "P1",
+      "name": "Rahul Sharma",
+      "age": 28,
+      "condition": "diabetes"
+    },
+    {
+      "id": "P2",
+      "name": "Priya Verma",
+      "age": 35,
+      "condition": "weight loss"
+    },
+    {
+      "id": "P3",
+      "name": "Amit Kumar",
+      "age": 50,
+      "condition": "heart health"
+    }
+  ]
+}

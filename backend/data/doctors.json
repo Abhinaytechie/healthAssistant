@@ -1,0 +1,22 @@
+{
+  "doctors": [
+    {
+      "id": "D1",
+      "name": "Dr. Anjali Rao",
+      "specialization": "Dermatologist",
+      "available_slots": ["10AM", "11AM", "2PM"]
+    },
+    {
+      "id": "D2",
+      "name": "Dr. Ramesh Gupta",
+      "specialization": "Cardiologist",
+      "available_slots": ["10AM", "1PM", "3PM"]
+    },
+    {
+      "id": "D3",
+      "name": "Dr. Sneha Iyer",
+      "specialization": "General Physician",
+      "available_slots": ["9AM", "11AM", "4PM"]
+    }
+  ]
+}
