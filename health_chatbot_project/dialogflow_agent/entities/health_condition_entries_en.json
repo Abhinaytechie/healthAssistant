@@ -1,0 +1,22 @@
+[
+  {
+    "id": "7a1bfbf6-dc4a-4f28-a2e2-9c5e1c46a1b1",
+    "value": "cardiologist",
+    "synonyms": ["cardiac doctor", "heart specialist", "heart doctor"]
+  },
+  {
+    "id": "e2bde42e-0b7a-4dd8-b25a-3d1ad2fb3d72",
+    "value": "dermatologist",
+    "synonyms": ["skin doctor", "skin specialist"]
+  },
+  {
+    "id": "bb8f5a8c-77c4-46a0-92b6-2a3df26f4b33",
+    "value": "diabetes",
+    "synonyms": ["sugar problem", "high sugar"]
+  },
+  {
+    "id": "1d69f92e-03d1-47d2-91a1-9f16ff2ab477",
+    "value": "weight loss",
+    "synonyms": ["reduce weight", "lose fat"]
+  }
+]
